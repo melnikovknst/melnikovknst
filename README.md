@@ -43,6 +43,18 @@ A reproducible research pipeline that compares equal weighting, constrained Ledo
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+### DINO for Seismic Facies Analysis
+
+[**Cross-domain DINO adaptation**](https://github.com/melnikovknst/Cross-Domain-Foundation-Model-Adaptation-main) · [**3D U-Net baseline**](https://github.com/melnikovknst/pytorch-3dunet)
+
+Research work on adapting DINO-based vision foundation models to seismic facies segmentation, with MLA-style decoding and a 3D U-Net comparison baseline. The public repositories contain the cross-domain DINO adaptation code and the volumetric U-Net baseline used for controlled experiments.
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![DINO](https://img.shields.io/badge/DINO-111827?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![3D Segmentation](https://img.shields.io/badge/3D%20Segmentation-0A66C2?style=flat-square)
+![Seismic](https://img.shields.io/badge/Seismic%20Facies-6A5ACD?style=flat-square)
+
 ### [HIV Clinic Database](https://github.com/melnikovknst/HIV-DB_PROJECT)
 
 A role-based medical information system demo with a PostgreSQL data model, SQL functions and triggers, Flask workflows for doctors, patients, and administrators, deterministic demo data, and a Docker Compose setup.
@@ -69,6 +81,16 @@ A signal-processing pipeline for multiphase-flow analysis from vibration sensors
 ![Time Series](https://img.shields.io/badge/Time%20Series-0A66C2?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### [Clipmaker — n8n Vertical Content Agent](https://github.com/melnikovknst/clipmaker_n8n_agent)
+
+A low-code n8n workflow for sourcing and preparing long-form YouTube material for Shorts and Reels production. Gemini generates structured discovery queries, the YouTube Data API retrieves candidates, and Redis tracks previously seen videos to prevent duplicates.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Automation](https://img.shields.io/badge/Low--Code%20Automation-0A66C2?style=flat-square)
 
 ---
 
